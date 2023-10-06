@@ -1,4 +1,4 @@
 # BMSZC Pataky
 
-# XY óra -2023.10.06
-Az óra témája
+# 1 óra -2023.09.29
+HTML Tagek
